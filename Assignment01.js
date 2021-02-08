@@ -29,6 +29,9 @@ window.onload = function init()
     points = [
         vec2(-.7, -.3 ), //1st triangle
         vec2( .7, -.3 ), 
+        vec2(-.7,  .5 ),
+        vec2( .7, -.3 ), //2nd triangle?
+        vec2( .7,  .5 ),
         vec2(-.7,  .5 ) 
         ];
 
